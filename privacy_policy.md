@@ -1,7 +1,7 @@
 # EN: Privacy Policy of Renjiro discord-bot
 1. Introduction
 
-We respect your privacy and are committed to protecting your personal data. This Privacy Policy (hereinafter referred to as the "Policy") describes how we collect, use, store and protect the information that you provide using our Discord bot (hereinafter referred to as the "bot").
+We respect your privacy and are committed to protecting your personal data. This Privacy Policy describes how we collect, use, store and protect the information that you provide using our Discord-bot Renjiro#5247.
 
 2. Collected data
 
@@ -44,7 +44,7 @@ We reserve the right to change or update this Policy at any time. All changes wi
 # RU: Политика конфиденциальности дискорд-бота Renjiro
 1. Введение
 
-Мы уважаем вашу конфиденциальность и обязуемся защищать ваши персональные данные. Данная Политика конфиденциальности (далее "Политика") описывает, как мы собираем, используем, храним и защищаем информацию, которую вы предоставляете, используя нашего Discord-бота (далее "бот").
+Мы уважаем вашу конфиденциальность и обязуемся защищать ваши персональные данные. Данная Политика конфиденциальности описывает, как мы собираем, используем, храним и защищаем информацию, которую вы предоставляете, используя нашего Discord-бота Renjiro#5247.
 
 2. Собираемые данные
 
