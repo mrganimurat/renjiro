@@ -1,4 +1,4 @@
 # Renjiro - майнкрафт-сервер с модами на версий 1.20.1
 Эта страница является главной страницей discord-бота сервера Renjiro.
 
-Наш (дискорд)[https://discord.gg/dXda8qWqZV]
+Наш дискорд: https://discord.gg/dXda8qWqZV
