@@ -2,7 +2,7 @@
 
 1. Introduction
 
-These Terms of Use govern your use of the Renjiro Discord Bot#5247. By using the bot, you agree to these Terms and Conditions. If you do not agree with them, please refrain from using the bot.
+These Terms of Use govern your use of the Discord-Bot `Renjiro#5247`. By using the bot, you agree to these Terms and Conditions. If you do not agree with them, please refrain from using the bot.
 
 2. Access rights
 
@@ -43,7 +43,7 @@ We can make changes to these Terms at any time. Updates will be posted on this p
 
 1. Введение
 
-Данные Условия использования регулируют ваше использование Discord-бота Renjiro#5247. Используя бота, вы соглашаетесь с настоящими Условиями. Если вы не согласны с ними, пожалуйста, воздержитесь от использования бота.
+Данные Условия использования регулируют ваше использование Discord-бота `Renjiro#5247`. Используя бота, вы соглашаетесь с настоящими Условиями. Если вы не согласны с ними, пожалуйста, воздержитесь от использования бота.
 
 2. Права доступа
 
