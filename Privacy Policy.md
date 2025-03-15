@@ -39,7 +39,7 @@ We do not use Cookies or similar technologies to track users, with the exception
 
 We reserve the right to change or update this Policy at any time. All changes will be posted on this page, and they will take effect from the moment of publication. We recommend that you check this page periodically to keep up to date with the changes.
 
-<br>
+
 
 # RU: Политика конфиденциальности дискорд-бота Renjiro
 1. Введение
